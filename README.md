@@ -9,8 +9,7 @@ Seasoned product and program leader with over a decade of experience in product 
 ### 🔭 What I'm Working On
 
 - **[CloudComparer](https://github.com/ilyas-it83/CloudComparer)** — Compare managed cloud services across major public cloud providers ⭐ 1,500+
-- **[CompareCloud.in](https://comparecloud.in/)** — The web companion for cloud service comparisons
-- Exploring AI agent teams, Azure AI Foundry, and autonomous development workflows
+
 
 ### ✍️ Recent Writing
 
